@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje eu trabalho na área financeira
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 - 📖 Buscando ser melhor todos os dias
 - 📫 Contate-me no e-mail : felipe.souza98@outlook.com.br
 
